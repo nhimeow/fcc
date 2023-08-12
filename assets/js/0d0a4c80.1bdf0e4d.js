@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4933],{2440:e=>{e.exports=JSON.parse('{"title":"React","description":"FCC React content","slug":"/category/react","permalink":"/docs/category/react","navigation":{"next":{"title":"Create a Simple JSX Element","permalink":"/docs/react/create-a-simple-jsx-element"}}}')}}]);
